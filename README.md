@@ -16,7 +16,7 @@ class AboutMe {
 }
 ```
 
-### Technical Skills
+#### Technical Skills
 
 <!-- Programming language logos -->
 <p align="left">
