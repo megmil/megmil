@@ -4,7 +4,7 @@
 class AboutMe {
     let user = "Megan Miller"
     let pronouns = ("she", "her")
-    let currentFocus = "Completing my CS degree at UMich"
+    var currentFocus = "Completing my CS degree at UMich"
 
     func getGraduationDate() -> String {
         return "December 2024"
