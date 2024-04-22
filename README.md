@@ -21,7 +21,7 @@ class AboutMe {
 <!-- Programming language logos -->
 <p align="left">
     <!-- C++ -->
-    <a href="https://cplusplus.com/" target="_blank" rel="nofollow">
+    <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/megmil/megmil/blob/cb663b5aaa0d93b3263061797d334f80dac6d0c7/images/cpp.svg" alt="cpp" height="40" />
     </a>
     <!-- Swift -->
